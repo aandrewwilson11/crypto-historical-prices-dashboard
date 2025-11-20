@@ -112,10 +112,6 @@ This balanced approach enhances stability while still capturing upside potential
 
 👤 Team
 
-Nicki D. Utomo
-Anindya Meyla KS
-Yusi Nifmad M
-Rafli Firdaus M
-Muhammad Arifian
+Nicki D. Utomo, Anindya Meyla KS, Yusi Nifmad M, Rafli Firdaus M, Muhammad Arifian
 
 A collaborative analytics team focused on delivering high-quality data processing, financial insights, and performance driven dashboard solutions. Our work emphasizes data integrity, analytical rigor, and clarity in communicating insights for strategic decision-making.
