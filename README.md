@@ -1,9 +1,4 @@
-Here is the **fully translated, polished, and professionally re-designed English version** of your README — ready to copy–paste into GitHub.
-It’s written in a portfolio-friendly tone suitable for recruiters, hiring managers, and data teams.
-
----
-
-# 📊 Crypto Historical Prices Dashboard
+#  Crypto Historical Prices Dashboard
 
 **Data Analytics • Cryptocurrency Market Insights • Looker Studio Dashboard**
 
@@ -11,14 +6,14 @@ This project analyzes eight years of historical data across five major cryptocur
 
 ---
 
-## 🔍 **1. Background**
+##  **1. Background**
 
 The cryptocurrency market is characterized by extreme volatility, making it difficult for investors to identify safe momentum and optimal allocation strategies. Differences in asset stability, unpredictable trading windows, and sharp fluctuations in volume introduce additional risk—especially for retail investors sensitive to liquidity swings.
 This project addresses that challenge by leveraging long-term historical data to extract reliable insights that can guide more measured and informed investment decision-making.
 
 ---
 
-## 🛠️ **2. Analytical Workflow**
+##  **2. Analytical Workflow**
 
 This analysis follows a structured end-to-end data workflow:
 
@@ -50,11 +45,11 @@ Explored long-term price trends, seasonal patterns, volatility cycles, and volum
 
 ### **5. Dashboard Development**
 
-Built an interactive **Looker Studio dashboard** to consolidate insights, enable quick interpretation, and support precise and data-informed decision-making.
+Built an interactive **Looker Studio dashboard** to consolidate insights, enable quick interpretation, and support precise and data informed decision making.
 
 ---
 
-## 📈 **3. Key Findings**
+## **3. Key Findings**
 
 From the eight-year dataset, four major patterns consistently shape crypto market movements:
 
@@ -70,7 +65,7 @@ These findings form a clear basis for strategic recommendations.
 
 ---
 
-## 🎯 **4. Strategic Recommendations**
+## **4. Strategic Recommendations**
 
 Based on the observed patterns:
 
@@ -83,7 +78,7 @@ This balanced approach enhances stability while still capturing upside potential
 
 ---
 
-## 🧩 **5. Tools & Technologies**
+## **5. Tools & Technologies**
 
 * **Python / Jupyter Notebook** for EDA and data cleaning
 * **Pandas, NumPy, Matplotlib**
@@ -96,7 +91,7 @@ This balanced approach enhances stability while still capturing upside potential
 ## 📊 **6. Dashboard**
 
 🔗 **Live Dashboard (Looker Studio):**
-*(Insert final public-sharing link here)*
+* https://lookerstudio.google.com/s/kq2dkAthJmE *
 
 ---
 
@@ -104,19 +99,23 @@ This balanced approach enhances stability while still capturing upside potential
 
 ```
 📦 crypto-historical-prices-dashboard
-├── raw/                 # Raw data
-├── cleaned/             # Cleaned CSV data
+├── data/                # Raw and cleaned csv data
+├─────raw                # Raw
 ├── notebooks/           # Jupyter Notebooks
 ├── deliverables/
 │   ├── dashboard/       # Dashboard preview images
-│   ├── docs/            # Reports and documentation
+│   ├── report/          # Reports and documentation
 └── README.md
 ```
 
 ---
 
-## 👤 **Author**
+👤 Team
 
-**niciiu**
-Aspiring Data Analyst | Passionate about financial analytics, data visualization, and leveraging insights for better decision-making.
+Nicki D. Utomo
+Anindya Meyla KS
+Yusi Nifmad M
+Rafli Firdaus M
+Muhammad Arifian
 
+A collaborative analytics team focused on delivering high-quality data processing, financial insights, and performance driven dashboard solutions. Our work emphasizes data integrity, analytical rigor, and clarity in communicating insights for strategic decision-making.
