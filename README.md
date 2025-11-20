@@ -6,13 +6,13 @@
   <img src="deliverables/dashboard/dashboard_preview.png" alt="Dashboard Preview" width="35%">
 </p>
 
-This project analyzes eight years of historical data across five major cryptocurrencies to uncover price dynamics, volatility patterns, market behavior, and seasonal trends. It is built as an end-to-end analytics workflow—from data preparation and exploration to visualization and strategic recommendations—to support more informed and data-driven investment decisions.
+This project analyzes eight years of historical data across five major cryptocurrencies to uncover price dynamics, volatility patterns, market behavior, and seasonal trends. It is built as an end-to-end analytics workflow—from data preparation and exploration to visualization and strategic recommendations to support more informed and data-driven investment decisions.
 
 ---
 
 ## **1. Background**
 
-The cryptocurrency market is characterized by extreme volatility, making it difficult for investors to identify safe momentum and optimal allocation strategies. Differences in asset stability, unpredictable trading windows, and sharp fluctuations in volume introduce additional risk—especially for retail investors sensitive to liquidity swings.
+The cryptocurrency market is characterized by extreme volatility, making it difficult for investors to identify safe momentum and optimal allocation strategies. Differences in asset stability, unpredictable trading windows, and sharp fluctuations in volume introduce additional risk especially for retail investors sensitive to liquidity swings.
 This project addresses that challenge by leveraging long-term historical data to extract reliable insights that can guide more measured and informed investment decision-making.
 
 ---
@@ -47,7 +47,7 @@ Identified trends, seasonal movement, volatility patterns, and volume shifts.
 
 ### **5. Dashboard Development**
 
-Built an interactive **Looker Studio dashboard** to deliver fast, insight-driven decision support.
+Built an interactive **Looker Studio dashboard** to deliver fast, insight driven decision support.
 
 ---
 
